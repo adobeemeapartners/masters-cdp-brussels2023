@@ -49,7 +49,7 @@ Challenges:
 Environments:
 - https://dsn.adobe.com/web/cdp-mop-a (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
-- [link here](https://builder.adobedemo.com/cx/cdp-mop-a-cx) (call center)
+- https://dsn.adobe.com/cx/cdp-mop-a-cx (call center)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
 ### Scenario B: SecurFinance (FSI)
@@ -87,7 +87,7 @@ Environments:
 
 - https://dsn.adobe.com/web/cdp-mop-d (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-d-mobile (mobile)
-- [link here](https://builder.adobedemo.com/cx/cdp-mop-d-cx) (call center) 
+- https://dsn.adobe.com/cx/cdp-mop-d-cx (call center) 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Experience Platform
