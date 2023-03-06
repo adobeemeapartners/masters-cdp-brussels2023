@@ -123,5 +123,8 @@ tbd
 ## Feedback Form
 
 We will be more than happy to hear about your experience today. Any suggestions how to imporve this series are highly valuable to us.
-Link: 
+
+Link: https://forms.office.com/r/Can7gHyrz1
+
+Thank you for choosing Adobe
 
