@@ -18,7 +18,7 @@ Based on the given scenario, you will need to do the following:
 2. Create/update the Point-of-View deck (pptx is in this repository) to create a presentation and pitch it to the customer representatives.
 3. Use the Adobe demo assets provided, customize them and show the solution in action to the customer.
 
-The whole presentation shouldn't take longer than 15 minutes and will be followed by a short 5 mins Q&A.
+The whole presentation shouldn't take longer than 10 minutes and will be followed by a short 5 mins Q&A.
 
 ## Presentation Criteria
 
@@ -103,13 +103,13 @@ Environments:
 ## Links & Assets
 * https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp.html
 * https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/accreditation/technical_sales_program.html 
-* https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/overview.html?lang=en
+* https://docs.adobesandbox.com/comprehensive-technical-tutorial-archive/
 
 ## Tips and Tricks
 * For every new demo run always use new anonymous (incognito) window or reset the mobile app
 * When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
 * If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
-* Use this guide for quick ingestion of CRM-like data: https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/module2/ex4.html?lang=en
+* Use this guide for quick ingestion of CRM-like data: https://docs.adobesandbox.com/comprehensive-technical-tutorial-archive/module2/ex4
 
 ## Agenda
 
