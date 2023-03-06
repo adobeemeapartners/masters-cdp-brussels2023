@@ -1,7 +1,6 @@
 # Adobe Masters 2023 - Real-Time CDP
 
-![Adobe_MoP_CDP_Red-Pink-Green](![Adobe_Masters_CDP_Red-Pink-Green](https://user-images.githubusercontent.com/61875393/223062585-66a0b961-656c-4b18-b701-479aebb2afcb.png)
-)
+![Adobe_MoP_CDP_Red-Pink-Green](https://user-images.githubusercontent.com/61875393/223062585-66a0b961-656c-4b18-b701-479aebb2afcb.png)
 
 Series Landing Page: https://cdp-masters.com/
 
