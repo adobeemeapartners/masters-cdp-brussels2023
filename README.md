@@ -113,7 +113,15 @@ Environments:
 
 ## Agenda
 
-tbd
+* Intro to the Workshop and Next Steps
+* Demo Customer Pitch (by Adobe Solution Consulting)
+* Coffee Break
+* Environment Handover and Team Assignments
+* Breakouts (Team work)
+* Lunch Break
+* Breakouts (Team work)
+* Team Presentations
+* Feedback and End of Session
 
 ## Adobe Contacts
 - Dominik Gach, dgach@adobe.com
