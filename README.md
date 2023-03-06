@@ -47,7 +47,7 @@ Challenges:
 * Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/cdp-mop-a) (web)
+- https://dsn.adobe.com/web/cdp-mop-a (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
 - [link here](https://builder.adobedemo.com/cx/cdp-mop-a-cx) (call center)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
@@ -59,7 +59,7 @@ Challenges:
 * Cross-channel view of their customers that effectively combines digital and traditional data channels
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/cdp-mop-b) (web)
+- https://dsn.adobe.com/web/cdp-mop-b (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
@@ -72,7 +72,7 @@ Challenges:
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/web/cdp-mop-c/home) (web)
+- https://dsn.adobe.com/web/cdp-mop-c (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
@@ -85,7 +85,7 @@ Challenges:
 
 Environments:
 
-- [link here](https://builder.adobedemo.com/run/cdp-mop-d/home) (web)
+- https://dsn.adobe.com/web/cdp-mop-d (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-d-mobile (mobile)
 - [link here](https://builder.adobedemo.com/cx/cdp-mop-d-cx) (call center) 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
